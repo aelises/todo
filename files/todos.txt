@@ -1,0 +1,8 @@
+run
+rest
+sleep
+walk
+just go
+do it
+toilet paper
+shower
