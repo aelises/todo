@@ -1,10 +1,8 @@
 run
 rest
 sleep
-walk
-testingtoilet paper
 shower
 fix computer
 python is great
 mouse
-dogadded
+market
