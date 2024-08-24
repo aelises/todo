@@ -6,3 +6,6 @@ fix computer
 python is great
 mouse
 market
+showernew thing
+another one
+another two
