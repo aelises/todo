@@ -6,6 +6,3 @@ fix computer
 python is great
 mouse
 market
-
-
-
